@@ -7,7 +7,7 @@ public class ShapeFactory {
    }
 
    // Provide a method to access the singleton instance
-   public static ShapeFactory getInstance() {g
+   public static ShapeFactory getInstance() {
       return instance;
    }
 
